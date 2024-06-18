@@ -1,0 +1,6 @@
+#include <stido.h>
+int main(){
+  printf("Panduan Tugas Akhir Algoritma dan Pemograman");
+}
+// Nama : Maya Sakinah
+// NIM : 12250521338
